@@ -21,7 +21,7 @@ Instruções:
 Quando executar ele ira procurar
 arquivos essenciais dependendo do tipo
 do arquivo compactado que abaixou,
-ele caso ele não encontre ele tentara
+caso ele não encontre ele tentara
 crialos automaticamente, o programa
 também contém um sistema de instalação
 de bibliotecas e compilador de arquivos
