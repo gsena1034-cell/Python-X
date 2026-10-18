@@ -22,7 +22,7 @@ Quando executar ele ira procurar
 arquivos essenciais dependendo do tipo
 do arquivo compactado que abaixou,
 caso ele não encontre ele tentara
-crialos automaticamente, o programa
+cria-los automaticamente, o programa
 também contém um sistema de instalação
 de bibliotecas e compilador de arquivos
 em testes.
