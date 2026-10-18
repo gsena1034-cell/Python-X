@@ -1,5 +1,4 @@
 ![Descrição da imagem](logo.png)
-
 O Python X é uma ferramenta desenvolvida durante minha jornada de aprendizado em Python. 🚀
 
 Criei este projeto para colocar meus conhecimentos em prática, aprender novas técnicas de programação e desenvolver minhas próprias ferramentas.
