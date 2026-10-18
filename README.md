@@ -15,3 +15,5 @@ Compartilhar conhecimento com outros programadores. Ajudar iniciantes a aprender
 Feito com Python e dedicação por um programador iniciante. 💚
 
 Aprender, criar e compartilhar!
+
+Projeto ainda em desenvolvimento.
